@@ -9,7 +9,7 @@
       "type": "string",
       "pattern": "^[0-9a-zA-Z_]+$",
       "description": "Identifier for the data source (variable)",
-      "examples": ["IE7873", "UHZ654","D1_M1"]
+      "examples": ["IE7873", "UHZ654"]
     },
     "status": {
       "type": "string",
