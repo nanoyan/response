@@ -55,6 +55,10 @@
 "UHZ654"
 ```
 
+```json
+"D1_M1"
+```
+
 | Restrictions                      |                                                                                                             |
 | --------------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | **Must match regular expression** | ```^[0-9a-zA-Z_]+$``` [Test](https://regex101.com/?regex=%5E%5B0-9a-zA-Z_%5D%2B%24&testString=%22IE7873%22) |
@@ -235,4 +239,4 @@ Must be one of:
 **Description:** This value represents the result evaluation of the code after coding process.
 
 ----------------------------------------------------------------------------------------------------------------------------
-Generated using [json-schema-for-humans](https://github.com/coveooss/json-schema-for-humans) on 2025-02-26 at 10:07:48 +0000
+Generated using [json-schema-for-humans](https://github.com/coveooss/json-schema-for-humans) on 2025-02-26 at 10:12:49 +0000
